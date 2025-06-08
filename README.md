@@ -10,8 +10,8 @@ Projeto final da disciplina de **Programação para Internet**, desenvolvido com
 - CSS3
 - JavaScript
 - PHP
-- MySQL (simulado ou real, dependendo da versão)
-- Bootstrap (opcional, caso tenha sido usado)
+- MySQL 
+- Bootstrap 
 
 ## 🧩 Funcionalidades
 
@@ -28,5 +28,5 @@ O objetivo principal foi consolidar os aprendizados da disciplina, incluindo:
 - Estruturação de sites com HTML e CSS
 - Criação de formulários e interação com backend via PHP
 - Validação básica com JavaScript
-- Publicação em servidor local ou remoto (como XAMPP ou 000Webhost)
+- Publicação em servidor Webhost
 
